@@ -1,0 +1,120 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+.row img{
+    width: 143px;
+}
+.row{
+    display: flex;
+    align-items: center;
+    width: 75%;
+}
+.row h1{
+    margin-left: -32px;
+    font-size: 23px;
+    font-weight: bolder;
+    font-family: ;
+}
+.row h1 span{
+    color: red;
+}
+.row1 a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-left: 27px;
+
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    margin-top: 159px;
+    font-size: 39px;
+    margin-left: -217px;
+}
+.one{
+    margin-bottom: -73px;
+}
+span{
+    color: red;
+}
+.container3 input{
+    width: 80%;
+    height: 356px;
+    margin-top: 12px;
+    background-color: beige;
+    border: none;
+    border-radius: 12px;
+}
+::placeholder{
+    position: absolute;
+    padding-top: 22px;
+    margin-top: -183px;
+    padding-left: 23px;
+}
+.container4 input{
+    display: flex;
+    width: 234px;
+    height: 34px;
+    border-radius: 12px;
+    border: none;
+    background-color: beige;
+    margin-top: 39px;
+    color: black;
+}
+.container4{
+    margin-top: 67px;
+    margin-left: 177px;
+    border: 1px solid black;
+    border-radius: 27px;
+    padding: 23px;
+    width: 30%;
+}
+.container4::placeholder{
+    color: black;
+}
+.container5 input{
+    display: flex;
+    margin-top: 7px;
+    height: 43px;
+    border-radius: 23px;
+    background-color: beige;
+    border: none;
+}
+.container5{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: -8%;
+}
+.container5 img{
+    margin-top: -27%;
+    margin-left: 37%;
+}
+.mm img{
+    margin-left: -87%;
+    margin-top: 7px;
+}
+.mm p{
+    margin-left: -39%;
+    margin-top: -112px;
+    width: 65%;
+}
+.btn button{
+    margin-top: 63px;
+    margin-bottom: 23px;
+    padding: 12px 23px 12px 23px;
+    color: white;
+    background-color: red;
+    border-radius: 12px;
+    border: none;
+}
